@@ -828,6 +828,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "c3b06fa5-881e-4caf-a996-528784ebe4dd",
+            "title": "beshr-banner",
+            "icon": "sicon-bold",
+            "path": "beshr-banner",
+            "fields": []
         }
     ],
     "support_url": null,
