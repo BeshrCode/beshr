@@ -805,6 +805,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "e6fc900c-c8d2-4fa9-b8b8-1cb64e433f7a",
+            "title": "beshr-info",
+            "icon": "sicon-tiktok",
+            "path": "beshr-info",
+            "fields": []
         }
     ],
     "support_url": null,
